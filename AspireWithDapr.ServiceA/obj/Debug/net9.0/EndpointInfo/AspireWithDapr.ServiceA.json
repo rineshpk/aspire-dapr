@@ -1,0 +1,44 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "AspireWithDapr.ServiceA",
+    "version": "1.0"
+  },
+  "paths": {
+    "/get-data": {
+      "get": {
+        "tags": [
+          "AspireWithDapr.ServiceA"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/publish": {
+      "post": {
+        "tags": [
+          "AspireWithDapr.ServiceA"
+        ],
+        "parameters": [
+          {
+            "name": "message",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

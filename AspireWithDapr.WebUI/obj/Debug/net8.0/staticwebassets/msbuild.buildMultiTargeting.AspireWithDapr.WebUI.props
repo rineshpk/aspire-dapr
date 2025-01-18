@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AspireWithDapr.WebUI.props" />
+</Project>

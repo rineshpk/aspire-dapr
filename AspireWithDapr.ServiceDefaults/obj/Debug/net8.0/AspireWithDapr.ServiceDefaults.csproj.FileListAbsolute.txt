@@ -1,0 +1,12 @@
+C:\Projects\ASPIRE\AspireWithDapr\AspireWithDapr\AspireWithDapr.ServiceDefaults\bin\Debug\net8.0\AspireWithDapr.ServiceDefaults.deps.json
+C:\Projects\ASPIRE\AspireWithDapr\AspireWithDapr\AspireWithDapr.ServiceDefaults\bin\Debug\net8.0\AspireWithDapr.ServiceDefaults.dll
+C:\Projects\ASPIRE\AspireWithDapr\AspireWithDapr\AspireWithDapr.ServiceDefaults\bin\Debug\net8.0\AspireWithDapr.ServiceDefaults.pdb
+C:\Projects\ASPIRE\AspireWithDapr\AspireWithDapr\AspireWithDapr.ServiceDefaults\obj\Debug\net8.0\AspireWithDapr.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Projects\ASPIRE\AspireWithDapr\AspireWithDapr\AspireWithDapr.ServiceDefaults\obj\Debug\net8.0\AspireWithDapr.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ASPIRE\AspireWithDapr\AspireWithDapr\AspireWithDapr.ServiceDefaults\obj\Debug\net8.0\AspireWithDapr.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Projects\ASPIRE\AspireWithDapr\AspireWithDapr\AspireWithDapr.ServiceDefaults\obj\Debug\net8.0\AspireWithDapr.ServiceDefaults.AssemblyInfo.cs
+C:\Projects\ASPIRE\AspireWithDapr\AspireWithDapr\AspireWithDapr.ServiceDefaults\obj\Debug\net8.0\AspireWithDapr.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Projects\ASPIRE\AspireWithDapr\AspireWithDapr\AspireWithDapr.ServiceDefaults\obj\Debug\net8.0\AspireWithDapr.ServiceDefaults.dll
+C:\Projects\ASPIRE\AspireWithDapr\AspireWithDapr\AspireWithDapr.ServiceDefaults\obj\Debug\net8.0\refint\AspireWithDapr.ServiceDefaults.dll
+C:\Projects\ASPIRE\AspireWithDapr\AspireWithDapr\AspireWithDapr.ServiceDefaults\obj\Debug\net8.0\AspireWithDapr.ServiceDefaults.pdb
+C:\Projects\ASPIRE\AspireWithDapr\AspireWithDapr\AspireWithDapr.ServiceDefaults\obj\Debug\net8.0\ref\AspireWithDapr.ServiceDefaults.dll

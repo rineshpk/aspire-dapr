@@ -1,0 +1,30 @@
+﻿@page "/data"
+@attribute [StreamRendering(true)]
+@attribute [OutputCache(Duration = 5)]
+
+@inject ApiClient api
+
+<PageTitle>Data From Service B</PageTitle>
+
+<h1>Data</h1>
+
+<p>This component demonstrates showing data loaded from a backend API service.</p>
+
+@if (data == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <p>The data from the service is:</p>
+    <span>@data</span>
+}
+
+@code {
+    private string? data;
+
+    protected override async Task OnInitializedAsync()
+    {
+        data = await api.GetDataAsync();
+    }
+}

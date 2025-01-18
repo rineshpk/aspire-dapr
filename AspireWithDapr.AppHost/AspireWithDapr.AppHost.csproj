@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<Sdk Name="Aspire.AppHost.Sdk" Version="9.0.0" />
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<IsAspireHost>true</IsAspireHost>
+		<UserSecretsId>03b4ac62-44f3-4443-8b16-d412efa3b0fb</UserSecretsId>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Aspire.Hosting.AppHost" Version="9.0.0" />
+		<PackageReference Include="Aspire.Hosting.Dapr" Version="9.0.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\AspireWithDapr.ServiceA\AspireWithDapr.ServiceA.csproj" />
+		<ProjectReference Include="..\AspireWithDapr.ServiceB\AspireWithDapr.ServiceB.csproj" />
+		<ProjectReference Include="..\AspireWithDapr.WebUI\AspireWithDapr.WebUI.csproj" />
+	</ItemGroup>
+
+</Project>

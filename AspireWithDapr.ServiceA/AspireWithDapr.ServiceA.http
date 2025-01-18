@@ -1,0 +1,6 @@
+@AspireWithDapr.ServiceA_HostAddress = http://localhost:5128
+
+GET {{AspireWithDapr.ServiceA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

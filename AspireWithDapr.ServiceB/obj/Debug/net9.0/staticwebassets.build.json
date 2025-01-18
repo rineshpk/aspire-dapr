@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "eIo02Ps65RhamUMTCiiQClv+19/fDz23zZ5EIB0E/9I=",
+  "Source": "AspireWithDapr.ServiceB",
+  "BasePath": "_content/AspireWithDapr.ServiceB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

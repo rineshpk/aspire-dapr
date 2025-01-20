@@ -1,4 +1,4 @@
-# Microservices Sample Project Using .NET Aspire and Dapr
+# Sample Application Using .NET Aspire and Dapr
 > Read the blog post here: https://dev.to/rineshpk/simplifying-microservice-development-with-net-aspire-dapr-and-podman-3hp0
 
 This is a sample .NET Microservice using Dapr and Aspire app host that orchestrates three services:
